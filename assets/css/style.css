@@ -102,7 +102,7 @@ section#popular {
 
 .heading {
     font-family: var(--secondary-font);
-    font-size: 48px;
+    font-size: 56px;
 }
 
 .title {
@@ -473,9 +473,7 @@ nav {
         padding: 10px 0;
     }
 
-    #about-us .img-full{
-        
-    }
+    #about-us .img-full {}
 
 }
 
